@@ -1,0 +1,13 @@
+package ucuncuhafta;
+
+public class Sorular {
+
+    public static void main(String[] args) {
+
+        /**
+         * Ödev SOLID D harfi ödev.
+         */
+
+    }
+
+}

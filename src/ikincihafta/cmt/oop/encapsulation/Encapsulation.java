@@ -1,8 +1,8 @@
 package ikincihafta.cmt.oop.encapsulation;
 
 
-import com.egitim.ikincihafta.pazar.oop.Kitap;
-import com.egitim.ikincihafta.pazar.oop.Ogretmen;
+import ikincihafta.pazar.oop.Kitap;
+import ucuncuhafta.cmt.collections.dizi.Ogretmen;
 
 public class Encapsulation {
 

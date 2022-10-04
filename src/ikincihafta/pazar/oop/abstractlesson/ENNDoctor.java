@@ -1,8 +1,6 @@
 package ikincihafta.pazar.oop.abstractlesson;
 
-import com.egitim.ikincihafta.pazar.oop.intefacekavrami.ISendMessage;
-
-public class ENNDoctor extends AbstractDoctor implements IMaasHesapla, ISendMessage {
+public class ENNDoctor extends AbstractDoctor {
 
     int aylikHastaSayisi;
 
@@ -25,24 +23,4 @@ public class ENNDoctor extends AbstractDoctor implements IMaasHesapla, ISendMess
 
     }
 
-
-    @Override
-    public void sendMessageWithSms() {
-
-    }
-
-    @Override
-    public void sendMessageWithMail() {
-
-    }
-
-    @Override
-    public void maasHesapla() {
-
-    }
-
-    @Override
-    public void test() {
-
-    }
 }
